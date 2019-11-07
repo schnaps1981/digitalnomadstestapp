@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="retry">Retry</string>
+    <string name="network_error">Network error</string>
+    <string name="no_web_browser">No web browser</string>
+    <string name="published">published</string>
+    <string name="nothing_to_show">Noting to show</string>
+    <string name="no_webview">Please install WebView</string>
+</resources>
